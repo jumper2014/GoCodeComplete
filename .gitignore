@@ -1,2 +1,3 @@
 *.a
-src/
+bin/
+src/github.com

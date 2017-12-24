@@ -1,4 +1,4 @@
-package main
+package _defer
 
 import "fmt"
 

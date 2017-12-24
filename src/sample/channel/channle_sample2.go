@@ -2,7 +2,7 @@
 最后，因为定义是 make(chan int)，所以必须走goroutine方式给赋值。
  */
 
-package main
+package channel
 
 import "fmt"
 
